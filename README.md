@@ -95,7 +95,7 @@ npm install
 npm run dev
 
 Your app will be running at http://localhost:5173
-```bash
+```
 📸 Screenshots:
 
 ![Screenshot 2025-06-27 210006](https://github.com/user-attachments/assets/28afa7c6-5869-4721-bb36-c875c26380ba)
