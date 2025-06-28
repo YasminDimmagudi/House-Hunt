@@ -43,27 +43,7 @@
 
 ---
 
-## 📁 Folder Structure
-
-HouseHunt/
-├── backend/
-│ ├── config/ # DB & server configuration
-│ ├── models/ # Mongoose schemas (User, Property, Booking, etc.)
-│ ├── routes/ # Express routes
-│ ├── controllers/ # Route logic
-│ ├── middleware/ # Auth middleware
-│ ├── server.js
-│ └── .env
-├── frontend/
-│ ├── components/ # Reusable components (e.g., PropertyCard, Modals)
-│ ├── context/ # Auth context
-│ ├── pages/ # Route-level components (Home, PropertyDetails, etc.)
-│ ├── types/ # TypeScript interfaces
-│ ├── App.tsx
-│ └── main.tsx
-├── .gitignore
-├── README.md
-└── package.json
+<pre><code> 📁 Folder Structure HouseHunt/ ├── backend/ │ ├── config/ # DB & server configuration │ ├── models/ # Mongoose schemas (User, Property, Booking, etc.) │ ├── routes/ # Express routes │ ├── controllers/ # Route logic │ ├── middleware/ # Auth middleware │ ├── server.js │ └── .env ├── frontend/ │ ├── components/ # Reusable components (e.g., PropertyCard, Modals) │ ├── context/ # Auth context │ ├── pages/ # Route-level components (Home, PropertyDetails, etc.) │ ├── types/ # TypeScript interfaces │ ├── App.tsx │ └── main.tsx ├── .gitignore ├── README.md └── package.json </code></pre>
 
 ## ⚙ Setup Instructions
 
