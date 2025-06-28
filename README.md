@@ -65,7 +65,7 @@ HouseHunt/
 ├── .gitignore
 ├── README.md
 └── package.json
-```bash
+```
 ## ⚙ Setup Instructions
 
 ### 🧩 Prerequisites
